@@ -1,0 +1,223 @@
+@media screen and (max-width:770px) {
+
+    /* header */
+
+    .banner-header .h1-primary{
+        font-size:1.5rem;
+
+    }
+    .banner-text .p-primary{
+        font-size: 0.5rem;
+    }
+    .banner-text .h1-primary{
+        font-size: 1.2rem;
+
+    }
+    .banner-text .banner-btn a{
+        /* display: block; */
+        /* margin: 1rem 15rem; */
+        margin-left: 10rem;
+        font-size: 0.5rem;
+      width: 20vh;
+
+
+    }
+    .section-banner .left .leftimg{
+        width: 15vh;
+    }
+
+
+    /* // Feature */
+
+
+    .feature-col{
+        flex-basis: 100%;
+
+    }
+    .feature .text-title .p-primary{
+        font-size: 1.1rem;
+
+    }
+    .feature-left .h1-primary{
+        font-size: 1rem;
+
+    }
+    .feature-left .p-primary{
+        font-size: 0.7rem;
+
+    }
+    .feature-left .h4-primary{
+        font-size: 0.8rem;
+
+    }
+
+    .feature-left a{
+
+    margin-left: 10rem;
+    font-size: 0.7rem;
+    width: 30vw;
+    }
+
+    .feature-col .midImg .img{
+        width: 100%;
+        height: 100vh;
+    }
+
+    .feature-col .feature-right .p-primary{
+        font-size: 0.6rem;
+
+
+    }
+    .feature-col .feature-right .h1-primary{
+        font-size: 1.3rem;
+
+    }
+    .feature-right-des .p-white{
+        font-size: 1rem;
+
+
+    }
+
+    /* -----About--- */
+
+    .about-des .text-title .p-primary{
+        font-size: 0.6rem;
+    }
+    .text-title .h1-primary{
+        font-size: 15px;
+
+
+    }
+    .about-box .about-features{
+        flex-basis: 100%;
+        font-size: 0.5rem;
+        padding: 1rem;
+        text-align: left;
+    }
+    .about-box .about-features2{
+        flex-basis: 100%;
+        font-size: 0.5rem;
+        padding: 1rem;
+        text-align: left;
+
+    }
+    .about-box a{
+
+        margin-left: 10rem;
+        font-size: 0.7rem;
+        width: 30vw;
+        }
+
+    .about-des .bgimg{
+        top:45%;
+        width: 50%;
+
+
+    }
+
+     /* <!-- ///Sepecialize Section/// --> */
+
+     .specialize{
+         display: none;
+     }
+
+     .specialize .title-img .specialize-img{
+        width: 70%;
+        height: 50vh;
+    }
+
+     .specialize .specialize-box .specialize-left{
+        /* flex-basis: 100%; */
+   
+
+     }
+     .specialize .specialize-box{
+         display: none;
+         
+     }
+
+
+    /* <!-- ///// Working description --> */
+
+
+    .work-box .work-left{
+        flex-basis:100%;
+        margin-right: 7rem;
+        
+        
+    
+    }
+    .work-box .work-left .left-img{
+        width: 100%;
+    
+      
+  
+        
+    }
+    .work-box .work-right{
+        flex-basis: 100%;
+    }
+   .work-right .work-des .p-primary{
+       font-size: 0.7rem;
+       margin-top: 1rem;
+   }
+   .work-right .work-des .h1-primary{
+
+    font-size: 1rem;
+
+   }
+   .work-right .work-para a{
+       width: 50%;
+
+    }
+
+
+
+
+    /* <!-- ----Barber Images---- --> */
+
+
+    .barber-images .text-title .p-primary{
+        font-size: 0.7rem;
+
+    }
+    .barber-images .h1-primary{
+
+        font-size: 1.6rem;
+    }
+
+    .img-col{
+        flex-basis: 100%;
+
+
+    }
+    .img-col .p1-primary
+    {
+        font-size: 0.8rem;
+
+
+    }
+    .img-col .h1-primary{
+        font-size: 0.9rem;
+
+    }
+
+    /* <!-- ----Testimonials--- --> */
+    .testimonials .testimonials-box{
+        width: 90%;
+
+    }
+
+    .testimonials-box .testimonials-heading{
+        font-size: 1rem;
+    }
+    .testimonials-box .p-primary{
+        font-size: 0.7rem;
+    }
+    .testimonials-box .fa{
+        font-size: 2rem;
+
+
+    }
+
+}
